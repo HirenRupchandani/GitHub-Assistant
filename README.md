@@ -44,7 +44,7 @@ Install dependencies
 Start the Streamlit server
 
 ```bash
-  streamlit run chat_with_git.py
+  streamlit run github_chat.py
 ```
 
 NOTE: Make sure `OPENAI_API_KEy` is active when you run the chat.py file. As of May 2024, you need to pay atleast 5 USD to use that API but I guess it is worth it because the API calls are very very cheap.
